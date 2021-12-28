@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/onur.guler/.dotnet/store/|arch|/|tfm|",
+      "/Users/onur.guler/.nuget/packages"
+    ]
+  }
+}

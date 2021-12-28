@@ -1,0 +1,15 @@
+/Users/onur.guler/Desktop/poc/object-oriented-fundamentals-onur/object-oriented-fundamentals-onur/bin/Debug/net5.0/object-oriented-fundamentals-onur.deps.json
+/Users/onur.guler/Desktop/poc/object-oriented-fundamentals-onur/object-oriented-fundamentals-onur/bin/Debug/net5.0/object-oriented-fundamentals-onur.runtimeconfig.json
+/Users/onur.guler/Desktop/poc/object-oriented-fundamentals-onur/object-oriented-fundamentals-onur/bin/Debug/net5.0/object-oriented-fundamentals-onur.runtimeconfig.dev.json
+/Users/onur.guler/Desktop/poc/object-oriented-fundamentals-onur/object-oriented-fundamentals-onur/bin/Debug/net5.0/object-oriented-fundamentals-onur.dll
+/Users/onur.guler/Desktop/poc/object-oriented-fundamentals-onur/object-oriented-fundamentals-onur/bin/Debug/net5.0/ref/object-oriented-fundamentals-onur.dll
+/Users/onur.guler/Desktop/poc/object-oriented-fundamentals-onur/object-oriented-fundamentals-onur/bin/Debug/net5.0/object-oriented-fundamentals-onur.pdb
+/Users/onur.guler/Desktop/poc/object-oriented-fundamentals-onur/object-oriented-fundamentals-onur/obj/Debug/net5.0/object-oriented-fundamentals-onur.csproj.AssemblyReference.cache
+/Users/onur.guler/Desktop/poc/object-oriented-fundamentals-onur/object-oriented-fundamentals-onur/obj/Debug/net5.0/object-oriented-fundamentals-onur.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onur.guler/Desktop/poc/object-oriented-fundamentals-onur/object-oriented-fundamentals-onur/obj/Debug/net5.0/object-oriented-fundamentals-onur.AssemblyInfoInputs.cache
+/Users/onur.guler/Desktop/poc/object-oriented-fundamentals-onur/object-oriented-fundamentals-onur/obj/Debug/net5.0/object-oriented-fundamentals-onur.AssemblyInfo.cs
+/Users/onur.guler/Desktop/poc/object-oriented-fundamentals-onur/object-oriented-fundamentals-onur/obj/Debug/net5.0/object-oriented-fundamentals-onur.csproj.CoreCompileInputs.cache
+/Users/onur.guler/Desktop/poc/object-oriented-fundamentals-onur/object-oriented-fundamentals-onur/obj/Debug/net5.0/object-oriented-fundamentals-onur.dll
+/Users/onur.guler/Desktop/poc/object-oriented-fundamentals-onur/object-oriented-fundamentals-onur/obj/Debug/net5.0/ref/object-oriented-fundamentals-onur.dll
+/Users/onur.guler/Desktop/poc/object-oriented-fundamentals-onur/object-oriented-fundamentals-onur/obj/Debug/net5.0/object-oriented-fundamentals-onur.pdb
+/Users/onur.guler/Desktop/poc/object-oriented-fundamentals-onur/object-oriented-fundamentals-onur/obj/Debug/net5.0/object-oriented-fundamentals-onur.genruntimeconfig.cache
